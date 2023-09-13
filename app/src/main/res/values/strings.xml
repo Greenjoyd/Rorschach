@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name" translatable="false">Rorschach Test</string>
+    //activity 1
+
+    <string name="Start">Start test</string>
+    <string name="StartText">This application is an opportunity to take a test invented in 1921
+    by psychiatrist and psychologist Hermann Rorschach. This test is not current, and both the
+    cards and the key to the test were created over 100 years ago. The
+    test you are about to take is a chance to see how you would have been
+    diagnosed at the beginning of the last century.</string>
+    activity_test
+    <string name="test1var1">Human figures</string>
+    <string name="test1var2">Animals</string>
+    <string name="test1var3">Something fantastic</string>
+    <string name="test1var4">Inanimate objects</string>
+
+    <string name="testViewTest1">What do you see in the picture?</string>
+
+    activity testd
+    <string name="test1d">Is it in motion?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    activity testdd
+    <string name="test1dd">your association applies to the whole picture?</string>
+
+    activity testddd
+    <string name="test1ddd">Describe how clear and colorful the image was</string>
+    <string name="test1dddb1">The image is fuzzy and not bright</string>
+    <string name="test1dddb2">At first, the shape is recognized, and then perhaps the color</string>
+    <string name="test1dddb3">At first, the color is captured, and then the shape</string>
+
+
+    end test
+    TV1
+    <string name="Human">You often show interest in human relationships of any type (favorable
+and unfavorable)</string>
+    <string name="Animal">Your answers indicate a weakly expressed
+individuality, stereotypical standard thinking.</string>
+    <string name="Fantasy">Judging by your answers, you are a person with a penchant
+for construction, fantasy and confabulation</string>
+    <string name="Item">The answers you gave indicate a tendency
+to autism, difficulty in interpersonal relationships.
+ In the field of organizing actions — as a tendency to concretization.</string>
+
+    TV2
+    <string name="Whole">Your answers are an indicator of the ability and desire for integration
+    ,reviewing and encompassing type of perception, the synthetic way of thinking, the ability to abstract</string>
+    <string name="Color">You tend to be influenced by affect and emotions. Evidence of the predominance of affective processes over other mental processes.
+    Your answers are a sign of "narrowed consciousness", impulsivity and lack of control</string>
+    <string name="Ditails">A large number of details in your answers is an indicator of the "fragmentation" of attention, its narrowness, fragmentation and illogical thinking;
+    The perception of white gaps and the construction of images based on them is an indicator of negativism or the defensive position of the subject</string>
+    <string name="Form">Your answers are :1) an indicator of the dominance of thought over feeling; 2) an indicator of compensatory phenomena when, through reflection, reasoning, they "extinguish" or try to lower affect or emotion.
+    In this case, it is possible to diagnose hidden fear, anxiety, fear of "dissolving" emotions.</string>
+    <string name="Movement">Your answers are an indicator of the subject\'s introversive tendency, an indicator of the richness and flexibility of the associative process.
+ A sign of independent associative work, often without external impulses.</string>
+
+    <string name="Restart">Start again</string>
+    <string name="Share">Share</string>
+    <string name="chooser_share_post">Share</string>
+</resources>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.greenjoyd.rorschachtest">
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.RorschachTest">
+        <activity
+            android:name=".Test10ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test10dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test10d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test9ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test9dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test9d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test8ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test8dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test8d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test7ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test7dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test7d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test6ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test6dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test6d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test5ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test5dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test5d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test4ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test4dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test4d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test3ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test3dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test3d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test2ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test2dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test2d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test1ddd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test1dd"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test1d"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".endTest"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test10"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test9"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test8"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test7"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test6"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test5"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test4"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test3"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test2"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Test1"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~6300978111"/>
+    </application>
+
+</manifest>

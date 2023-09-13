@@ -1,0 +1,58 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_end_test.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test1.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test10.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test10d.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test10dd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test10ddd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test1d.xml" value="0.264" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test1dd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test1ddd.xml" value="0.264" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test2.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test2d.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test2dd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test2ddd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test3.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test3d.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test3dd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test3ddd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test4.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test4d.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test4dd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test4ddd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test5.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test5d.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test5dd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test5ddd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test6.xml" value="0.2" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test6d.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test6dd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test6ddd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test7.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test7d.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test7dd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test7ddd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test8.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test8d.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test8dd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test8ddd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test9.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test9d.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test9dd.xml" value="0.2359375" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/activity_test9ddd.xml" value="0.25" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/layout/content_test8.xml" value="0.264" />
+        <entry key="..\:/Users/dunag/pgrm/Apps/RorschachTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1715" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

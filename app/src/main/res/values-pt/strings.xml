@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Start">Iniciar teste</string>
+    <string name="StartText">Este aplicativo é uma oportunidade de realizar um teste inventado
+        em 1921 pelo psiquiatra e psicólogo Hermann Rorschach. Esse teste não é atual, e tanto
+        as cartas quanto a chave do teste foram criadas há mais de 100 anos. O teste que
+        você está prestes a fazer é
+        uma chance de ver como você seria diagnosticado no início do século passado.</string>
+    activity_test1
+    <string name="test1var1">Figuras humanas</string>
+    <string name="test1var2">Animais</string>
+    <string name="test1var3">Algo fantástico</string>
+    <string name="test1var4">Objetos inanimados</string>
+
+    <string name="testViewTest1">O que você vê na imagem?</string>
+
+    activity test1d
+    <string name="test1d">Está em movimento?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    activity test1dd
+    <string name="test1dd">Sua associação refere-se a toda a imagem?</string>
+
+    activity test1ddd
+    <string name="test1ddd">Descreva o quão claro e colorido foi a imagem</string>
+    <string name="test1dddb1">A imagem é embaçada e sem brilho</string>
+    <string name="test1dddb2">Primeiro se reconhece a forma e depois talvez a cor</string>
+    <string name="test1dddb3">Primeiro se reconhece a cor e depois a forma</string>
+
+    end test
+    TV1
+    <string name="Human">Você frequentemente mostra interesse em relações humanas de qualquer tipo (favoráveis ​​e desfavoráveis)</string>
+    <string name="Animal">
+Suas respostas indicam uma personalidade com individualidade fraca, pensamento estereotipado padrão.</string>
+    <string name="Fantasy">Com base em suas respostas, você é propenso a construir, fantasiar e confabular.</string>
+    <string name="Item">As respostas indicam uma tendência ao autismo, dificuldades em relacionamentos interpessoais. Na área da organização de ações, há uma tendência à concretização.</string>
+
+    TV2
+    <string name="Whole">Suas respostas são um indicador da habilidade e desejo de integração, um tipo abrangente de percepção, um modo sintético de pensamento, habilidade de abstração.</string>
+    <string name="Color">Você é propenso a ser influenciado pelo afeto e emoções. Suas respostas indicam a predominância de processos afetivos sobre outros processos mentais. Um sinal de "consciência restrita", impulsividade e falta de controle.</string>
+    <string name="Ditails">Um grande número de detalhes em suas respostas é um indicador de "fragmentação" da atenção, sua estreiteza, fragmentação e ilogicidade do pensamento; a percepção de espaços em branco e a construção de imagens a partir deles é um indicador de negativismo ou uma posição defensiva do sujeito.</string>
+    <string name="Form">Suas respostas são um indicativo de: 1) domínio do pensamento sobre o sentimento; 2) fenômeno compensatório, onde o pensamento e a reflexão "apagam" ou tentam reduzir o afeto ou a emoção. Nesse caso, é possível diagnosticar medos ocultos, ansiedade, medo de "desatar" as emoções.</string>
+    <string name="Movement">Suas respostas são um indicativo da tendência introvertida do sujeito, um indicativo da riqueza e flexibilidade do processo associativo. Um sinal de trabalho associativo independente, muitas vezes sem estímulos externos.</string>
+
+    <string name="Restart">Começar de novo</string>
+    <string name="Share">Compartilhar</string>
+    <string name="chooser_share_post">Compartilhar</string>
+</resources>

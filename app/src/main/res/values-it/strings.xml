@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Test Di Rorschach</string>
+
+    <string name="Start">Inizio prova</string>
+    <string name="StartText">Questa applicazione offre l\'opportunità di sostenere un test ideato nel 1921 dallo psichiatra e psicologo Hermann Rorschach. Questo test non è attuale e sia le carte che la chiave del test sono state create oltre 100 anni fa. Il test che stai per svolgere ti permette di vedere come saresti stato diagnosticato all\'inizio del secolo scorso.</string>
+    <string name="test1var1">Figure umane</string>
+
+    <string name="test1var2">Animali</string>
+    <string name="test1var3">Qualcosa di fantastico</string>
+    <string name="test1var4">Oggetti inanimati</string>
+
+    <string name="testViewTest1">Cosa vedi nell\'immagine?</string>
+
+    <string name="test1d">E\' in movimento?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <string name="test1dd">La tua associazione si riferisce all\'intera immagine nel suo insieme?</string>
+
+    <string name="test1ddd">Descrivi quanto fosse chiara e distinta l\'immagine</string>
+    <string name="test1dddb1">L\'immagine non è chiara ed è sfocata</string>
+    <string name="test1dddb2">Prima di tutto si riconosce la forma e poi forse il colore</string>
+    <string name="test1dddb3">Prima di tutto si riconosce il colore e poi la forma</string>
+
+    <string name="Human">Mostri spesso interesse per i rapporti umani di qualsiasi tipo (favorevole e sfavorevole).</string>
+    <string name="Animal">Le tue risposte indicano un\'individualità debolmente espressa, pensiero standard stereotipato.</string>
+    <string name="Fantasy">A giudicare dalle tue risposte, sei una personalità incline alla costruzione, alla fantasia e alle confabulazioni.</string>
+    <string name="Item">Le risposte che dai indicano una tendenza all\'autismo, difficoltà nei rapporti interpersonali. Nell\'ambito dell\'organizzazione delle azioni, come tendenza alla concretizzazione.</string>
+
+    <string name="Whole">Le tue risposte sono un indicatore della capacità e del desiderio di integrazione, indagine riguardante il tipo di percezione, modo di pensare sintetico, capacità di astrazione.</string>
+    <string name="Color">Tendi ad essere influenzato dagli affetti e dalle emozioni. Le tue risposte sono la prova della predominanza dei processi affettivi sugli altri processi mentali. Un segno di «coscienza ristretta», impulsività e mancanza di controllo.</string>
+    <string name="Ditails">Un gran numero di dettagli nelle tue risposte - indica poca attenzione, ristrettezza, frammentazione e pensiero illogico. Percezione degli spazi bianchi e di costruire un\'immagine basata su di essi - indicatore di negativismo o atteggiamento difensivo.</string>
+    <string name="Form">Le tue risposte sono: 1. Un indicatore del predominio del pensiero sul sentimento. 2. Indicatore di fenomeni compensatori, quando per riflessione, ragionamento, placanno o tentanno di ridurre un affetto o un\'emozione. In questo caso, puoi diagnosticare la paura nascosta, ansia, paura di rilasciare emozioni.</string>
+    <string name="Movement">Le tue risposte sono un indicatore della tendenza all\'introversione del soggetto, indicatore di ricchezza e flessibilità del processo associativo. Segno di lavoro associativo indipendente, spesso senza impulsi esterni.</string>
+
+    <string name="Restart">Ricomincia</string>
+    <string name="Share">Condividi</string>
+    <string name="chooser_share_post">Condividi</string>
+</resources>
